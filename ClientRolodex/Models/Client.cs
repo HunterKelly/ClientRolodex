@@ -10,4 +10,12 @@
 
         public ICollection<Enrollment> Enrollments { get; set; }
     }
+    //Query the Database
+//    using (var db = new BloggingContext())
+//{
+//    var blogs = db.Blogs
+//        .Where(b => b.Rating > 3)
+//        .OrderBy(b => b.Url)
+//        .ToList();
+//}
 }
