@@ -10,6 +10,11 @@
 
         public ICollection<Enrollment> Enrollments { get; set; }
     }
+
+    //public static ClientSearch()
+   // {
+
+   // }
     //Query the Database
 //    using (var db = new BloggingContext())
 //{
