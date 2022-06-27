@@ -13,7 +13,7 @@
 
     //public static ClientSearch()
    // {
-
+   //the method to search will go here
    // }
     //Query the Database
 //    using (var db = new BloggingContext())
