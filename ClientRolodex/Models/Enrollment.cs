@@ -12,6 +12,7 @@ namespace ClientRolodex.Models
     }
     public class Enrollment
     {
+        public int ID { get; set; }
         public int EnrollmentID { get; set; }
         public int SocialID { get; set; }
         public int DriverID { get; set; }
