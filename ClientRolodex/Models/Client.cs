@@ -11,16 +11,9 @@
         public ICollection<Enrollment> Enrollments { get; set; }
     }
 
-    //public static ClientSearch()
+  // public static ClientSearch()
    // {
-   //the method to search will go here
-   // }
-    //Query the Database
-//    using (var db = new BloggingContext())
-//{
-//    var blogs = db.Blogs
-//        .Where(b => b.Rating > 3)
-//        .OrderBy(b => b.Url)
-//        .ToList();
-//}
+        
+    //}
+
 }
